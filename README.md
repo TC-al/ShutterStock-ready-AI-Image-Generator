@@ -4,5 +4,7 @@ This generates Images with Together AI, and auto formats the metadata informatio
 
 To use:
 **1. Obtain a Together AI API Key** (don't worry this program uses the free models of Flux and Llama 3.3)
+
 **2. Replace the "REPLACE API KEY" with the key that's yours**
+
 **3. Double Click run.bat (or just double click the python file idk if that acc works)**
